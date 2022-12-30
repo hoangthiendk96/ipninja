@@ -1,1 +1,1 @@
-ServerkhuaHuy:0.tcp.ap.ngrok.io:19366:0:0
+NSOHUY:0.tcp.ap.ngrok.io:17721:0:0
