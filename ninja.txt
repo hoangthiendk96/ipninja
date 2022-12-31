@@ -1,1 +1,1 @@
-NSOHUYDK:0.tcp.ap.ngrok.io:17891:0:0
+NSO-pro:0.tcp.ap.ngrok.io:17891:0:0
